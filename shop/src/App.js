@@ -17,7 +17,7 @@ function App() {
       id:Math.floor(Math.random() * 999999)
     },
     {
-      text: "This is my third notee",
+      text: "This is my third noteed",
       date: "15/04/2021",
       id:Math.floor(Math.random() * 999999)
     },
